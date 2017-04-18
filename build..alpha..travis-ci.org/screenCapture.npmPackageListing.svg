@@ -1,0 +1,62 @@
+<svg height="942" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="942" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 09:11:21 +0000   672238 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:11:21 +0000     7651 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:11:21 +0000    10372 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:11:21 +0000      414 bytes  bower.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:11:21 +0000      334 bytes  demo.html</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:11:21 +0000      524 bytes  demo.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:11:21 +0000   203728 bytes  dist/minimongo.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:11:21 +0000    77811 bytes  dist/minimongo.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:11:21 +0000     1585 bytes  gulpfile.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:11:21 +0000      386 bytes  index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:11:21 +0000       27 bytes  jquery-shim.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 09:11:21 +0000     1724 bytes  karma.conf.coffee</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 09:11:21 +0000     9058 bytes  lib/EJSON.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 09:11:21 +0000    11264 bytes  lib/HybridDb.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 09:11:21 +0000    13987 bytes  lib/IndexedDb.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 09:11:21 +0000    10162 bytes  lib/LocalStorageDb.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 09:11:21 +0000     6677 bytes  lib/MemoryDb.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 09:11:21 +0000     5476 bytes  lib/RemoteDb.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 09:11:21 +0000     6123 bytes  lib/ReplicaDb.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 09:11:21 +0000     3933 bytes  lib/ReplicatingDb.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 09:11:21 +0000    18370 bytes  lib/WebSQLDb.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 09:11:21 +0000      840 bytes  lib/jQueryHttpClient.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 09:11:21 +0000    23741 bytes  lib/selector.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 09:11:21 +0000    10127 bytes  lib/utils.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 09:11:21 +0000       27 bytes  lodash-shim.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 09:11:21 +0000     2922 bytes  package.json</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 09:11:21 +0000     9058 bytes  src/EJSON.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 09:11:21 +0000     9946 bytes  src/HybridDb.coffee</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 09:11:21 +0000     9803 bytes  src/IndexedDb.coffee</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 09:11:21 +0000     7478 bytes  src/LocalStorageDb.coffee</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 09:11:21 +0000     4848 bytes  src/MemoryDb.coffee</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 09:11:21 +0000     4224 bytes  src/RemoteDb.coffee</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 09:11:21 +0000     2754 bytes  src/ReplicatingDb.coffee</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 09:11:21 +0000    13763 bytes  src/WebSQLDb.coffee</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 09:11:21 +0000      879 bytes  src/jQueryHttpClient.coffee</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 09:11:21 +0000    23741 bytes  src/selector.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 09:11:21 +0000     9942 bytes  src/utils.coffee</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 09:11:21 +0000    25011 bytes  test/HybridDbTests.coffee</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 09:11:21 +0000     2037 bytes  test/IndexedDbTests.coffee</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 09:11:21 +0000     3022 bytes  test/LocalStorageDbTests.coffee</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 09:11:21 +0000      475 bytes  test/MemoryDbTests.coffee</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 09:11:21 +0000     1988 bytes  test/RemoteDbTests.coffee</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 09:11:21 +0000      801 bytes  test/ReplicatingDbTests.coffee</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 09:11:21 +0000     3034 bytes  test/WebSQLTests.coffee</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 09:11:21 +0000    15184 bytes  test/db_caching.coffee</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 09:11:21 +0000    12120 bytes  test/db_queries.coffee</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 09:11:21 +0000     3611 bytes  test/utilTests.coffee</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 09:11:21 +0000     9058 bytes  test/v2/EJSON.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 09:11:21 +0000    10004 bytes  test/v2/HybridDb.coffee</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 09:11:21 +0000     7949 bytes  test/v2/IndexedDb.coffee</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 09:11:21 +0000     6117 bytes  test/v2/LocalStorageDb.coffee</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 09:11:21 +0000     3836 bytes  test/v2/MemoryDb.coffee</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 09:11:21 +0000     3329 bytes  test/v2/RemoteDb.coffee</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 09:11:21 +0000    10351 bytes  test/v2/WebSQLDb.coffee</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 09:11:21 +0000    23518 bytes  test/v2/selector.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 09:11:21 +0000     6789 bytes  test/v2/utils.coffee</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 09:11:21 +0000      305 bytes  testem.json</tspan>
+</text>
+</svg>
