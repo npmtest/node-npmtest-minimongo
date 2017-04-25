@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [minimongo (v4.5.0)](https://github.com/mWater/minimongo)  [![npm package](https://img.shields.io/npm/v/npmtest-minimongo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-minimongo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-minimongo.svg)](https://travis-ci.org/npmtest/node-npmtest-minimongo)",
+    "description": "#### basic test coverage for  [minimongo (v4.5.0)](https://github.com/mWater/minimongo)  [![npm package](https://img.shields.io/npm/v/npmtest-minimongo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-minimongo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-minimongo.svg)](https://travis-ci.org/npmtest/node-npmtest-minimongo)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "minimongo": "*",
